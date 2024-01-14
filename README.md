@@ -2,11 +2,11 @@
 
 ## Overview
 
-This GitHub repository contains a breast cancer prediction model implemented using Support Vector Machines (SVM). The model is designed to classify breast cancer instances as either malignant or benign based on a set of features. SVM is a powerful machine learning algorithm that is well-suited for binary classification tasks.
+This GitHub repository contains a breast cancer prediction model implemented using Support Vector Machines (SVM). The model is designed to classify breast cancer instances as either malignant or benign based on a set of features. SVM is a robust machine learning algorithm well-suited for binary classification tasks.
 
 ## Dataset
 
-The model utilizes the Breast Cancer Dataset which is included in the repository in the `data` directory. The dataset consists of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
+The model utilizes the Breast Cancer Dataset, which is included in the repository. The dataset consists of features computed from a digitized image of a breast mass's fine needle aspirate (FNA).
 
 ## Dependencies
 
